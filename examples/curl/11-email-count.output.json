@@ -1,0 +1,35 @@
+{
+    "data": {
+        "total": 143,
+        "personal_emails": 114,
+        "generic_emails": 29,
+        "department": {
+            "engineering": 4,
+            "finance": 1,
+            "hr": 0,
+            "it": 3,
+            "marketing": 4,
+            "operations": 1,
+            "management": 5,
+            "sales": 5,
+            "legal": 1,
+            "support": 2,
+            "communication": 1,
+            "executive": 3,
+            "accounting": 1,
+            "administrative": 1,
+            "diversity": 0,
+            "facilities": 0,
+            "pr": 1,
+            "security": 3,
+            "software": 1,
+            "warehouse": 0
+        },
+        "seniority": {
+            "junior": 1,
+            "senior": 9,
+            "executive": 2
+        }
+    },
+    "website_id": 10257961
+}

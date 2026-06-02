@@ -1,0 +1,95 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "framer.com",
+            "organization": "Framer",
+            "location": {
+                "country": "NL",
+                "city": "Amsterdam",
+                "state": "North Holland",
+                "street_address": "rozengracht",
+                "postal_code": "1180"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/framer",
+                "facebook_url": "https://www.facebook.com/groups/framerjs",
+                "linkedin_url": "https://www.linkedin.com/company/10228950",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": "https://www.tiktok.com/@@framer"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": null,
+            "company_size": "51-250",
+            "company_type": "privately held",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "the best interactive design tool for teams. collaborate on designs backed by the power of the web. get it for free on windows, mac, and web \u2014 login.framer.com/sign-up",
+            "pattern": "{first}",
+            "total_similar": 17,
+            "keywords": null,
+            "ranking": 9431,
+            "whois": {
+                "registrar_name": "csc corporate domains, inc.",
+                "created_date": "1996-12-30T06:00:00+01:00",
+                "referral_url": "http://cscdbs.com"
+            },
+            "last_updated": "2026-04-09T21:30:27+02:00"
+        },
+        "emails": [
+            {
+                "email": "william@framer.com",
+                "first_name": "William",
+                "last_name": "Womack",
+                "full_name": "William Womack",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Owner",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/william-womack-67028b10b",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.google.com/search?q=site:linkedin.com%20william%20womack",
+                        "website_url": "google.com",
+                        "extracted_on": "2026-06-02T14:00:07.970399904+02:00",
+                        "last_seen_on": "2026-06-02T14:00:07.970399964+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 12,
+        "pageSize": 5,
+        "current": 1,
+        "total_pages": 23,
+        "params": {
+            "domain": "framer.com",
+            "company": "",
+            "page": 1,
+            "limit": 5,
+            "department": "executive",
+            "country": "US",
+            "type": "personal",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}

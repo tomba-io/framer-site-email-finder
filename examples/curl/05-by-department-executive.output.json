@@ -1,0 +1,353 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "framer.com",
+            "organization": "Framer",
+            "location": {
+                "country": "NL",
+                "city": "Amsterdam",
+                "state": "North Holland",
+                "street_address": "rozengracht",
+                "postal_code": "1180"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/framer",
+                "facebook_url": "https://www.facebook.com/groups/framerjs",
+                "linkedin_url": "https://www.linkedin.com/company/10228950",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": "https://www.tiktok.com/@@framer"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": null,
+            "company_size": "51-250",
+            "company_type": "privately held",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "the best interactive design tool for teams. collaborate on designs backed by the power of the web. get it for free on windows, mac, and web \u2014 login.framer.com/sign-up",
+            "pattern": "{first}",
+            "total_similar": 17,
+            "keywords": null,
+            "ranking": 9431,
+            "whois": {
+                "registrar_name": "csc corporate domains, inc.",
+                "created_date": "1996-12-30T06:00:00+01:00",
+                "referral_url": "http://cscdbs.com"
+            },
+            "last_updated": "2026-04-09T21:30:27+02:00"
+        },
+        "emails": [
+            {
+                "email": "koen@framer.com",
+                "first_name": "Koen",
+                "last_name": "Bok",
+                "full_name": "Koen Bok",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": "NL",
+                "position": "ceo",
+                "department": "executive",
+                "seniority": "executive",
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/koen-bok-029592137",
+                "score": 100,
+                "verification": {
+                    "date": "2026-02-09T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.remotework360.com/listing/framer-bv/",
+                        "website_url": "www.remotework360.com",
+                        "extracted_on": "2021-07-13T17:58:06+02:00",
+                        "last_seen_on": "2021-07-13T18:13:02+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/staticsitegenerators",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T12:16:20+02:00",
+                        "last_seen_on": "2021-07-25T23:50:06+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://app.tomba.io/verify/koen@framer.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2022-05-19T10:37:58+02:00",
+                        "last_seen_on": "2022-08-01T18:10:18+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://festina.vc/?ref=baryum.co",
+                        "website_url": "festina.vc",
+                        "extracted_on": "2024-09-17T15:02:04+02:00",
+                        "last_seen_on": "2024-12-01T16:45:50+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://festina.vc/",
+                        "website_url": "festina.vc",
+                        "extracted_on": "2025-01-14T08:19:43+01:00",
+                        "last_seen_on": "2025-02-12T01:13:22+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://festina.vc/?ref=3dwebsites.design",
+                        "website_url": "festina.vc",
+                        "extracted_on": "2025-02-19T13:31:49+01:00",
+                        "last_seen_on": "2025-03-21T20:36:53+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "jorn@framer.com",
+                "first_name": "Jorn",
+                "last_name": "Van dijk",
+                "full_name": "Jorn Van dijk",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": "NL",
+                "position": "founder designer",
+                "department": "executive",
+                "seniority": "founder",
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/jorn-van-dijk-39a563143",
+                "score": 100,
+                "verification": {
+                    "date": "2026-01-30T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.remotework360.com/listing/framer-bv/",
+                        "website_url": "www.remotework360.com",
+                        "extracted_on": "2021-07-13T17:58:06+02:00",
+                        "last_seen_on": "2021-07-13T18:13:02+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:06+02:00",
+                        "last_seen_on": "2021-07-24T05:04:49+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer-base",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:10+02:00",
+                        "last_seen_on": "2021-07-24T05:04:50+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer-cli",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:11+02:00",
+                        "last_seen_on": "2021-07-24T05:04:51+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/@framerjs/build-library",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T21:27:57+02:00",
+                        "last_seen_on": "2021-07-25T17:58:45+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/@framerjs/component-importer",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T21:27:58+02:00",
+                        "last_seen_on": "2021-07-25T17:58:46+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/framer",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-25T02:19:29+02:00",
+                        "last_seen_on": "2021-07-25T21:22:33+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:drag",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2021-08-28T20:31:21+02:00",
+                        "last_seen_on": "2021-08-29T19:05:14+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords%3Areact&page=1&perPage=20",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2021-11-10T11:10:39+01:00",
+                        "last_seen_on": "2021-11-25T17:25:56+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://app.tomba.io/verify/jorn@framer.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2022-05-19T10:37:58+02:00",
+                        "last_seen_on": "2022-08-01T18:10:18+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:animation",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2022-09-17T21:55:52+02:00",
+                        "last_seen_on": "2022-09-19T09:14:26+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://festina.vc/?ref=baryum.co",
+                        "website_url": "festina.vc",
+                        "extracted_on": "2024-09-17T15:02:04+02:00",
+                        "last_seen_on": "2024-12-01T17:12:15+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.permi.tech/ar/careers/user-interface-designer",
+                        "website_url": "www.permi.tech",
+                        "extracted_on": "2024-09-17T22:58:54+02:00",
+                        "last_seen_on": "2024-12-03T22:44:27+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.framer.com/legal/security/",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-19T11:52:45+02:00",
+                        "last_seen_on": "2025-03-23T07:12:05+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://jornvandijk.com/",
+                        "website_url": "jornvandijk.com",
+                        "extracted_on": "2024-09-12T22:17:47+02:00",
+                        "last_seen_on": "2025-03-01T21:32:45+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "http://diggplus.info/index-34.html",
+                        "website_url": "diggplus.info",
+                        "extracted_on": "2024-11-02T18:01:57+01:00",
+                        "last_seen_on": "2024-12-19T00:54:18+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://festina.vc/",
+                        "website_url": "festina.vc",
+                        "extracted_on": "2025-01-14T08:19:43+01:00",
+                        "last_seen_on": "2025-02-12T01:13:22+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://jornvandijk.com/?ref=onepagelove",
+                        "website_url": "jornvandijk.com",
+                        "extracted_on": "2025-02-06T19:55:26+01:00",
+                        "last_seen_on": "2025-03-02T01:33:26+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://festina.vc/?ref=3dwebsites.design",
+                        "website_url": "festina.vc",
+                        "extracted_on": "2025-02-19T13:31:49+01:00",
+                        "last_seen_on": "2025-03-21T20:36:53+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-02-07T22:40:56+01:00",
+                        "last_seen_on": "2025-04-07T15:51:27+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "sander@framer.com",
+                "first_name": "Sander",
+                "last_name": null,
+                "full_name": "",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": null,
+                "position": "Founder TestLab; Principal Eng",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 100,
+                "verification": {
+                    "date": "2025-07-24T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://app.tomba.io/verify/sander@framer.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2025-07-24T17:11:38+02:00",
+                        "last_seen_on": "2025-07-24T17:11:38+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "william@framer.com",
+                "first_name": "William",
+                "last_name": "Womack",
+                "full_name": "William Womack",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Owner",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/william-womack-67028b10b",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.google.com/search?q=site:linkedin.com%20william%20womack",
+                        "website_url": "google.com",
+                        "extracted_on": "2026-06-02T13:57:53.427503508+02:00",
+                        "last_seen_on": "2026-06-02T13:57:53.427503568+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 3,
+        "pageSize": 5,
+        "current": 1,
+        "total_pages": 29,
+        "params": {
+            "domain": "framer.com",
+            "company": "",
+            "page": 1,
+            "limit": 5,
+            "department": "executive",
+            "country": null,
+            "type": "all",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "data": {
+        "email": "koen@framer.com",
+        "first_name": "Koen",
+        "last_name": "Bok",
+        "full_name": "Koen Bok",
+        "website_url": "framer.com",
+        "company": "Framer",
+        "pattern": null,
+        "department": null,
+        "type": null,
+        "position": "",
+        "country": null,
+        "gender": null,
+        "twitter": null,
+        "linkedin": "",
+        "score": 99,
+        "accept_all": null,
+        "phone_number": false,
+        "verification": {
+            "date": "2026-06-02T14:00:12.772361987+02:00",
+            "status": "valid"
+        },
+        "sources": [
+            {
+                "uri": "https://app.tomba.io/verify/koen@framer.com",
+                "website_url": "tomba.io",
+                "extracted_on": "2026-06-02T14:00:12.774259803+02:00",
+                "last_seen_on": "2026-06-02T14:00:12.774259833+02:00",
+                "still_on_page": true
+            }
+        ]
+    }
+}

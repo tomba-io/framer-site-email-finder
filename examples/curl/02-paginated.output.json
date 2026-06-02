@@ -1,0 +1,411 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "framer.com",
+            "organization": "Framer",
+            "location": {
+                "country": "NL",
+                "city": "Amsterdam",
+                "state": "North Holland",
+                "street_address": "rozengracht",
+                "postal_code": "1180"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/framer",
+                "facebook_url": "https://www.facebook.com/groups/framerjs",
+                "linkedin_url": "https://www.linkedin.com/company/10228950",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": "https://www.tiktok.com/@@framer"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": null,
+            "company_size": "51-250",
+            "company_type": "privately held",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "the best interactive design tool for teams. collaborate on designs backed by the power of the web. get it for free on windows, mac, and web \u2014 login.framer.com/sign-up",
+            "pattern": "{first}",
+            "total_similar": 17,
+            "keywords": null,
+            "ranking": 9431,
+            "whois": {
+                "registrar_name": "csc corporate domains, inc.",
+                "created_date": "1996-12-30T06:00:00+01:00",
+                "referral_url": "http://cscdbs.com"
+            },
+            "last_updated": "2026-04-09T21:30:27+02:00"
+        },
+        "emails": [
+            {
+                "email": "francesca.bonin@framer.com",
+                "first_name": "Francesca",
+                "last_name": "Bonin",
+                "full_name": "Francesca Bonin",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:animation",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2023-02-14T12:35:29+01:00",
+                        "last_seen_on": "2023-02-16T18:37:13+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "james@framer.com",
+                "first_name": "James",
+                "last_name": "Jacobs",
+                "full_name": "James Jacobs",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/james-jacobs-aa525231",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-03T18:12:28+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "studio@framer.com",
+                "first_name": null,
+                "last_name": null,
+                "full_name": "",
+                "gender": null,
+                "phone_number": true,
+                "type": "generic",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 60,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://fiano.at/about-2",
+                        "website_url": "fiano.at",
+                        "extracted_on": "2025-03-16T04:46:18+01:00",
+                        "last_seen_on": "2025-04-10T22:55:31+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://evanston.framer.website/?via=ludoviclosco",
+                        "website_url": "evanston.framer.website",
+                        "extracted_on": "2025-05-13T12:39:30+02:00",
+                        "last_seen_on": "2025-07-12T10:50:38+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.futuredept.co/kalun",
+                        "website_url": "www.futuredept.co",
+                        "extracted_on": "2025-08-09T07:53:51+02:00",
+                        "last_seen_on": "2025-09-03T19:45:10+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.futuredept.co/projects/china-tang",
+                        "website_url": "www.futuredept.co",
+                        "extracted_on": "2025-09-08T01:58:07+02:00",
+                        "last_seen_on": "2025-10-05T17:01:27+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.futuredept.co/projects/karmuelyoung",
+                        "website_url": "www.futuredept.co",
+                        "extracted_on": "2025-10-13T11:48:15+02:00",
+                        "last_seen_on": "2025-10-31T03:37:01+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://worldlywatches.com/",
+                        "website_url": "worldlywatches.com",
+                        "extracted_on": "2025-11-08T14:42:42+01:00",
+                        "last_seen_on": "2025-12-13T17:44:33+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://worldlywatches.com/inventory/6263-18k",
+                        "website_url": "worldlywatches.com",
+                        "extracted_on": "2025-12-12T05:08:59+01:00",
+                        "last_seen_on": "2025-12-28T23:20:55+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://worldlywatches.com/collection/milsub-5513",
+                        "website_url": "worldlywatches.com",
+                        "extracted_on": "2026-01-17T01:20:38+01:00",
+                        "last_seen_on": "2026-02-06T21:42:54+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://sam-dias.framer.website/",
+                        "website_url": "sam-dias.framer.website",
+                        "extracted_on": "2026-03-14T13:59:12+01:00",
+                        "last_seen_on": "2026-04-07T22:30:39+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://sam-dias.framer.website/work/virtual-ground",
+                        "website_url": "sam-dias.framer.website",
+                        "extracted_on": "2026-05-09T18:22:02+02:00",
+                        "last_seen_on": "2026-06-01T23:58:16+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "newyork@framer.com",
+                "first_name": null,
+                "last_name": null,
+                "full_name": "",
+                "gender": null,
+                "phone_number": false,
+                "type": "generic",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 54,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://chloelaurenttemplate.framer.website/contact-2",
+                        "website_url": "chloelaurenttemplate.framer.website",
+                        "extracted_on": "2024-09-18T04:02:46+02:00",
+                        "last_seen_on": "2024-12-04T23:46:13+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://chloelaurent-cfw.framer.website/contact-1",
+                        "website_url": "chloelaurent-cfw.framer.website",
+                        "extracted_on": "2025-05-19T22:29:38+02:00",
+                        "last_seen_on": "2025-07-14T09:33:37+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.theharleyhouse.com/contact-2",
+                        "website_url": "www.theharleyhouse.com",
+                        "extracted_on": "2025-06-14T18:40:09+02:00",
+                        "last_seen_on": "2025-12-14T19:13:20+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.avenuesaintjames.com/contact-2",
+                        "website_url": "www.avenuesaintjames.com",
+                        "extracted_on": "2026-03-09T04:34:08+01:00",
+                        "last_seen_on": "2026-04-08T00:28:40+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "benjamin@framer.com",
+                "first_name": "Benjamin",
+                "last_name": "Boer",
+                "full_name": "Benjamin Boer",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "NL",
+                "position": "product designer",
+                "department": "management",
+                "seniority": "senior",
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/benjamin-den-boer-b994b3114",
+                "score": 100,
+                "verification": {
+                    "date": "2026-01-29T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.skypack.dev/view/framer",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:06+02:00",
+                        "last_seen_on": "2021-07-24T05:04:49+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer-base",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:10+02:00",
+                        "last_seen_on": "2021-07-24T05:04:50+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer-cli",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:11+02:00",
+                        "last_seen_on": "2021-07-24T05:04:51+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/@framerjs/build-library",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T21:27:57+02:00",
+                        "last_seen_on": "2021-07-25T17:58:45+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/@framerjs/component-importer",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T21:27:58+02:00",
+                        "last_seen_on": "2021-07-25T17:58:46+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/framer",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-25T02:19:29+02:00",
+                        "last_seen_on": "2021-07-25T21:22:32+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:drag",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2021-08-28T20:31:21+02:00",
+                        "last_seen_on": "2021-08-29T19:05:14+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords%3Areact&page=1&perPage=20",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2021-11-10T11:10:39+01:00",
+                        "last_seen_on": "2021-11-25T17:25:56+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://app.tomba.io/verify/benjamin@framer.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2022-05-19T10:37:58+02:00",
+                        "last_seen_on": "2022-08-01T18:10:18+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:animation",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2022-09-17T21:55:52+02:00",
+                        "last_seen_on": "2022-09-19T09:14:26+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://pageflows.com/emails/product/framer/",
+                        "website_url": "pageflows.com",
+                        "extracted_on": "2023-04-19T03:28:23+02:00",
+                        "last_seen_on": "2023-04-24T18:53:52+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.framer.com/marketplace/template/photography-website/",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-13T18:48:29+02:00",
+                        "last_seen_on": "2024-11-28T12:20:29+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.framer.com/marketplace/template/gumroad-website/?via=victorflow",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-14T20:47:02+02:00",
+                        "last_seen_on": "2024-12-03T15:41:51+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.framer.com/marketplace/template/personal-blog-website/",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-17T19:34:51+02:00",
+                        "last_seen_on": "2024-12-03T18:31:30+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://benjamin.design/",
+                        "website_url": "benjamin.design",
+                        "extracted_on": "2025-02-18T11:25:46+01:00",
+                        "last_seen_on": "2025-10-04T17:56:00+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://benjamin.design/?ref=todays.design",
+                        "website_url": "benjamin.design",
+                        "extracted_on": "2025-11-18T21:16:24+01:00",
+                        "last_seen_on": "2025-12-14T05:05:04+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://benjamin.design/qa-test-qa-test",
+                        "website_url": "benjamin.design",
+                        "extracted_on": "2026-01-15T13:34:41+01:00",
+                        "last_seen_on": "2026-02-07T06:13:55+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 143,
+        "pageSize": 5,
+        "current": 2,
+        "total_pages": 29,
+        "params": {
+            "domain": "framer.com",
+            "company": "",
+            "page": 2,
+            "limit": 5,
+            "department": null,
+            "country": null,
+            "type": "all",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}

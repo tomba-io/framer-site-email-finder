@@ -1,0 +1,320 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "framer.com",
+            "organization": "Framer",
+            "location": {
+                "country": "NL",
+                "city": "Amsterdam",
+                "state": "North Holland",
+                "street_address": "rozengracht",
+                "postal_code": "1180"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/framer",
+                "facebook_url": "https://www.facebook.com/groups/framerjs",
+                "linkedin_url": "https://www.linkedin.com/company/10228950",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": "https://www.tiktok.com/@@framer"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": null,
+            "company_size": "51-250",
+            "company_type": "privately held",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "the best interactive design tool for teams. collaborate on designs backed by the power of the web. get it for free on windows, mac, and web \u2014 login.framer.com/sign-up",
+            "pattern": "{first}",
+            "total_similar": 17,
+            "keywords": null,
+            "ranking": 9431,
+            "whois": {
+                "registrar_name": "csc corporate domains, inc.",
+                "created_date": "1996-12-30T06:00:00+01:00",
+                "referral_url": "http://cscdbs.com"
+            },
+            "last_updated": "2026-04-09T21:30:27+02:00"
+        },
+        "emails": [
+            {
+                "email": "john@framer.com",
+                "first_name": "John",
+                "last_name": "Mckeown",
+                "full_name": "John Mckeown",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "NL",
+                "position": "Enterprise Account Executive",
+                "department": "marketing",
+                "seniority": "senior",
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/john-mckeown-8ab78a53",
+                "score": 52,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://worldsitelink.com/email_by_domain/45566",
+                        "website_url": "worldsitelink.com",
+                        "extracted_on": "2022-04-13T08:11:40+02:00",
+                        "last_seen_on": "2024-12-18T14:49:10+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://framer.com",
+                        "website_url": "framer.com",
+                        "extracted_on": "2025-05-18T00:46:52+02:00",
+                        "last_seen_on": "2026-05-21T15:00:56+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "marketing@framer.com",
+                "first_name": null,
+                "last_name": null,
+                "full_name": "",
+                "gender": null,
+                "phone_number": false,
+                "type": "generic",
+                "country": null,
+                "position": null,
+                "department": "marketing",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 100,
+                "verification": {
+                    "date": "2026-02-09T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.framer.com/marketplace/template/wiki-website/?via=victorflow",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-14T22:02:52+02:00",
+                        "last_seen_on": "2024-12-03T18:27:11+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.framer.com/brand",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-11T03:50:35+02:00",
+                        "last_seen_on": "2024-12-04T18:44:55+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.framer.com/marketplace/template/wiki-website/",
+                        "website_url": "www.framer.com",
+                        "extracted_on": "2024-09-15T10:00:29+02:00",
+                        "last_seen_on": "2024-12-07T04:13:13+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "http://diggplus.info/brand.html",
+                        "website_url": "diggplus.info",
+                        "extracted_on": "2025-10-11T09:07:09+02:00",
+                        "last_seen_on": "2025-10-31T04:40:30+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://danillouz.dev/proxy/brand",
+                        "website_url": "danillouz.dev",
+                        "extracted_on": "2025-12-06T00:57:31+01:00",
+                        "last_seen_on": "2025-12-29T13:17:42+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "http://www.diggplus.info/brand.html",
+                        "website_url": "www.diggplus.info",
+                        "extracted_on": "2026-03-16T15:03:26+01:00",
+                        "last_seen_on": "2026-04-08T01:15:13+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "hunter@framer.com",
+                "first_name": "Hunter",
+                "last_name": "Caron",
+                "full_name": "Hunter Caron",
+                "gender": "male",
+                "phone_number": true,
+                "type": "generic",
+                "country": null,
+                "position": "Product Designer",
+                "department": "marketing",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/huntercaron",
+                "score": 100,
+                "verification": {
+                    "date": "2022-06-01T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.skypack.dev/view/framer",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:06+02:00",
+                        "last_seen_on": "2021-07-24T05:04:49+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer-base",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:10+02:00",
+                        "last_seen_on": "2021-07-24T05:04:50+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.skypack.dev/view/framer-cli",
+                        "website_url": "www.skypack.dev",
+                        "extracted_on": "2021-07-23T14:21:11+02:00",
+                        "last_seen_on": "2021-07-24T05:04:51+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/@framerjs/build-library",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T21:27:57+02:00",
+                        "last_seen_on": "2021-07-25T17:58:45+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/@framerjs/component-importer",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-24T21:27:58+02:00",
+                        "last_seen_on": "2021-07-25T17:58:46+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://r.cnpmjs.org/framer",
+                        "website_url": "r.cnpmjs.org",
+                        "extracted_on": "2021-07-25T02:19:29+02:00",
+                        "last_seen_on": "2021-07-25T21:22:32+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:drag",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2021-08-28T20:31:21+02:00",
+                        "last_seen_on": "2021-08-29T19:05:14+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords%3Areact&page=1&perPage=20",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2021-11-10T11:10:39+01:00",
+                        "last_seen_on": "2021-11-25T17:25:56+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://app.tomba.io/verify/hunter@framer.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2022-05-19T10:37:58+02:00",
+                        "last_seen_on": "2022-08-01T18:10:18+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.npmjs.com/search?q=keywords:animation",
+                        "website_url": "www.npmjs.com",
+                        "extracted_on": "2022-09-17T21:55:52+02:00",
+                        "last_seen_on": "2022-09-19T09:14:26+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "edoardo@framer.com",
+                "first_name": "Edoardo",
+                "last_name": "Mercati",
+                "full_name": "Edoardo Mercati",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": null,
+                "position": "Product Lead & Designer",
+                "department": "marketing",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/edoardomercati",
+                "score": 100,
+                "verification": {
+                    "date": "2022-07-11T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://app.tomba.io/verify/edoardo@framer.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2022-05-19T10:37:58+02:00",
+                        "last_seen_on": "2022-08-01T18:10:18+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "herman@framer.com",
+                "first_name": "Herman",
+                "last_name": "Neufeld",
+                "full_name": "Herman Neufeld",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "CA",
+                "position": "Builder",
+                "department": "marketing",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/herman-neufeld-bb8a3b97",
+                "score": 51,
+                "verification": {
+                    "date": "2021-06-02T00:00:00+02:00",
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.google.com/search?q=site:linkedin.com%20herman%20neufeld",
+                        "website_url": "google.com",
+                        "extracted_on": "2026-06-02T14:00:06.936824906+02:00",
+                        "last_seen_on": "2026-06-02T14:00:06.936824966+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 4,
+        "pageSize": 5,
+        "current": 1,
+        "total_pages": 29,
+        "params": {
+            "domain": "framer.com",
+            "company": "",
+            "page": 1,
+            "limit": 5,
+            "department": "marketing",
+            "country": null,
+            "type": "all",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}

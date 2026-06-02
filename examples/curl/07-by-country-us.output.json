@@ -1,0 +1,215 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "framer.com",
+            "organization": "Framer",
+            "location": {
+                "country": "NL",
+                "city": "Amsterdam",
+                "state": "North Holland",
+                "street_address": "rozengracht",
+                "postal_code": "1180"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/framer",
+                "facebook_url": "https://www.facebook.com/groups/framerjs",
+                "linkedin_url": "https://www.linkedin.com/company/10228950",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": "https://www.tiktok.com/@@framer"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": null,
+            "company_size": "51-250",
+            "company_type": "privately held",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "the best interactive design tool for teams. collaborate on designs backed by the power of the web. get it for free on windows, mac, and web \u2014 login.framer.com/sign-up",
+            "pattern": "{first}",
+            "total_similar": 17,
+            "keywords": null,
+            "ranking": 9431,
+            "whois": {
+                "registrar_name": "csc corporate domains, inc.",
+                "created_date": "1996-12-30T06:00:00+01:00",
+                "referral_url": "http://cscdbs.com"
+            },
+            "last_updated": "2026-04-09T21:30:27+02:00"
+        },
+        "emails": [
+            {
+                "email": "james@framer.com",
+                "first_name": "James",
+                "last_name": "Jacobs",
+                "full_name": "James Jacobs",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/james-jacobs-aa525231",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-03T18:12:28+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "mario@framer.com",
+                "first_name": "Mario",
+                "last_name": "Saravia",
+                "full_name": "Mario Saravia",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Framing",
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/mario-saravia-43a2561a4",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-01T17:31:50+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "nestor@framer.com",
+                "first_name": "Nestor",
+                "last_name": "Claros",
+                "full_name": "Nestor Claros",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Supervisor de construccin",
+                "department": "management",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/nestor-claros-b28393178",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T01:06:23+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "d@framer.com",
+                "first_name": "D",
+                "last_name": "B",
+                "full_name": "D B",
+                "gender": null,
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Expert",
+                "department": "management",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/d-b-30550928a",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-03T09:45:57+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "lawrence@framer.com",
+                "first_name": "Lawrence",
+                "last_name": "Bennett",
+                "full_name": "Lawrence Bennett",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Lead Carpenter",
+                "department": "management",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/lawrence-bennett-204610160",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-04T05:03:40+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 12,
+        "pageSize": 5,
+        "current": 1,
+        "total_pages": 29,
+        "params": {
+            "domain": "framer.com",
+            "company": "",
+            "page": 1,
+            "limit": 5,
+            "department": null,
+            "country": "US",
+            "type": "all",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}
